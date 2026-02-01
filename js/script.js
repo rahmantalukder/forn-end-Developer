@@ -1,0 +1,1 @@
+console.log("Hello, welcome to the Landing Pages project!");
